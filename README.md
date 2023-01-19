@@ -1,17 +1,17 @@
 <!-- <div align="center"> -->
 
 ## ___✨최희정 Heejeong Choi✨___
-  
-### My potofolio link👀
-  ### https://hij00.github.io/portfolio_2022/
-  
 
 <br/>
+<br/>
+  
+### My potofolio link👀
+##### https://hij00.github.io/portfolio_2022/
+  
 <br/>
 
 ### **FRONTEND DEVELOPER**
-
-#### 2022.04 ~ing
+##### 2022.04 ~ing
 
 <br/>
 
@@ -38,9 +38,9 @@ alt="Javascript"
 
 ### **📫 연락처 How to reach Me...**
 
-### **e-mail**
+##### **e-mail**
 
-### heejeong_82@naver.com
+##### heejeong_82@naver.com
 
 <!-- </div> -->
 
