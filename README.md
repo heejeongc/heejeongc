@@ -1,5 +1,3 @@
-<!-- <div align="center"> -->
-
 ## ___✨최희정 Heejeong Choi✨___
 
 <br/>
@@ -10,7 +8,7 @@
 
 <br/>
 
-### **Tech Stacks⚡**
+### ** Tech Stacks⚡**
 
 <img
 src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"
@@ -31,8 +29,7 @@ alt="Javascript"
 
 <br/>
 
-### My potofolio link👀
-##### https://hij00.github.io/portfolio_2022/
+### [포트폴리오](https://hij00.github.io/portfolio_2022/) My potofolio link👀
   
 <br/>
 
@@ -40,7 +37,9 @@ alt="Javascript"
 ##### **e-mail**
 ##### heejeong_82@naver.com
 
-<!-- </div> -->
+### **📫 공부용 about study...**
+##### **[깃허브](https://github.com/heeetc)**
+##### **[블로그]()**
 
 
 
