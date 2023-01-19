@@ -2,6 +2,9 @@
 
 ## ___✨최희정 Heejeong Choi✨___
   
+### My potofolio link👀
+  ### https://hij00.github.io/portfolio_2022/
+  
 
 <br/>
 <br/>
