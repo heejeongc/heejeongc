@@ -4,11 +4,6 @@
 
 <br/>
 <br/>
-  
-### My potofolio link👀
-##### https://hij00.github.io/portfolio_2022/
-  
-<br/>
 
 ### **FRONTEND DEVELOPER**
 ##### 2022.04 ~ing
@@ -36,10 +31,13 @@ alt="Javascript"
 
 <br/>
 
+### My potofolio link👀
+##### https://hij00.github.io/portfolio_2022/
+  
+<br/>
+
 ### **📫 연락처 How to reach Me...**
-
 ##### **e-mail**
-
 ##### heejeong_82@naver.com
 
 <!-- </div> -->
