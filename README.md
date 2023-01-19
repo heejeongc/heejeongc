@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center"> -->
 
 ## ___✨최희정 Heejeong Choi✨___
   
@@ -42,7 +42,7 @@ alt="Javascript"
 
 ### heejeong_82@naver.com
 
-</div>
+<!-- </div> -->
 
 
 
